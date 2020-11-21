@@ -6,6 +6,13 @@ Flutter apps with cool design and moderate animations
 
 - [Instagram Redesign App](#Instagram-Redesign-App)
 - [Social App Photographers](#Social-App-Photographers)
+- [My Medical Appointment](#My-Medical-Appointment)
+- [FindOut](#FindOut)
+- [Movie Selections](#Movie-Selections)
+- [Music App Concept](#Music-App-Concept)
+- [Music App Two](#Music-App-Two)
+
+
 
 
 ___
